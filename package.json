@@ -1,0 +1,23 @@
+{
+  "name": "@pdkpavankumar/mock-server",
+  "version": "1.0.0",
+  "description": "NodeJS mock server to mock your rest api end points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdkpavankumar/mock-server.git"
+  },
+  "keywords": [
+    "Mock",
+    "nodejs"
+  ],
+  "author": "P D K Pavan Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdkpavankumar/mock-server/issues"
+  },
+  "homepage": "https://github.com/pdkpavankumar/mock-server#readme"
+}
